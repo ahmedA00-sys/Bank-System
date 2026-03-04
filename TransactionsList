@@ -1,0 +1,32 @@
+TR-1,20000.0,Deposit,AC-1,EM-1,Ahmed Kasban,AC-1,Anas Ali,2024-12-12
+TR-2,10000.0,Withdraw,AC-2,EM-1,Ahmed Kasban,AC-2,Anas Ali,2024-12-17
+TR-3,10000.0,Withdraw,AC-2,CL-1,Anas Ali,AC-2,Anas Ali,2024-12-17
+TR-4,2050.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-5,1000.0,Deposit,AC-4,EM-1,Ahmed Kasban,AC-4,Mohamed Ramadan,2024-12-20
+TR-6,2050.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-7,1000.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-8,1000.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-9,2000.0,Deposit,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-10,500.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-11,2050.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-12,550.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-13,3100.0,Transfer,AC-1,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-20
+TR-14,100.0,Deposit,AC-1,CL-1,Anas,AC-1,Anas Alaa,2024-12-20
+TR-15,4050.0,Withdraw,AC-5,CL-4,Ahmed,AC-5,Ahmed Ramadan,2024-12-20
+TR-16,3350.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-1,2024-12-20
+TR-17,3350.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-1,2024-12-20
+TR-18,3350.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-1,2024-12-20
+TR-19,1000.0,Withdraw,AC-4,CL-3,Mohamed,AC-4,Mohamed Ramadan,2024-12-20
+TR-20,1000.0,Deposit,AC-4,CL-3,Mohamed,AC-4,Mohamed Ramadan,2024-12-20
+TR-21,3350.0,Transfer,AC-4,CL-3,Mohamed,AC-4,CL-3,2024-12-20
+TR-22,3000.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-1,2024-12-20
+TR-23,3350.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-1,2024-12-20
+TR-24,3350.0,Transfer,AC-1,CL-1,Anas,AC-1,CL-4,2024-12-21
+TR-25,1200.0,Deposit,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-21
+TR-26,1200.0,Withdraw,AC-5,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-21
+TR-27,1200.0,Transfer,AC-2,EM-1,Ahmed Kasban,AC-5,Ahmed Ramadan,2024-12-21
+TR-28,1000.0,Deposit,AC-5,CL-4,Ahmed,AC-5,Ahmed Ramadan,2024-12-21
+TR-29,1000.0,Withdraw,AC-5,CL-4,Ahmed,AC-5,Ahmed Ramadan,2024-12-21
+TR-30,4000.0,Deposit,AC-4,EM-1,Ahmed Kasban,AC-4,Mohamed Ramadan,2024-12-21
+TR-31,4000.0,Withdraw,AC-4,EM-1,Ahmed Kasban,AC-4,Mohamed Ramadan,2024-12-21
+TR-32,3650.0,Transfer,AC-1,EM-1,Ahmed Kasban,AC-4,Mohamed Ramadan,2024-12-21

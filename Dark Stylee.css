@@ -1,0 +1,43 @@
+/* ===== TextField & PasswordField Styling ===== */
+.text-field, .password-field {
+    -fx-background-color: transparent; /* خلفية شفافة */
+    -fx-border-color: transparent transparent #888888 transparent; /* خط سفلي فقط */
+    -fx-border-width: 0 0 2 0; /* تحديد عرض الخط السفلي */
+    -fx-text-fill: #ffffff; /* لون النص */
+    -fx-prompt-text-fill: #888888; /* لون النص التوضيحي */
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 5 0; /* مساحة داخلية صغيرة */
+}
+.text-field:focused, .password-field:focused {
+    -fx-border-color: transparent transparent #FA2C56 transparent; /* خط سفلي بلون مختلف عند التركيز */
+    -fx-prompt-text-fill: #555555; /* لون النص التوضيحي عند التركيز */
+}
+
+/* ===== Login Container Styling ===== */
+.login-container {
+    -fx-background-color: #393351; /* لون الخلفية */
+    -fx-background-radius: 20; /* الحواف المستديرة */
+    -fx-border-color: #524A7B; /* لون الإطار */
+    -fx-border-radius: 20; /* حواف الإطار */
+    -fx-padding: 20; /* مساحة داخلية */
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 5, 5); /* تأثير الظل */
+}
+
+/* ===== Button Styling ===== */
+.login-button {
+    -fx-background-color: #524A7B; /* لون الخلفية */
+    -fx-border-radius: 15; /* الحواف المستديرة */
+    -fx-background-radius: 15;
+    -fx-text-fill: #ffffff; /* لون النص */
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 10 20; /* مساحة داخلية */
+    -fx-cursor: hand; /* مؤشر الفأرة */
+}
+.login-button:hover {
+    -fx-background-color: #FA2C56; /* لون الخلفية عند التحويم */
+}
+.login-button:pressed {
+    -fx-background-color: #2F2B43; /* لون الخلفية عند الضغط */
+}
